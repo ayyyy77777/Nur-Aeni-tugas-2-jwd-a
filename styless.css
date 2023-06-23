@@ -48,7 +48,7 @@ nav a:hover{
 .container{
   max-width: 1200px;
   margin: auto;
-  background: whitesmoke;
+  background: white;
   overflow: auto;
 }
 .gallery{
